@@ -148,4 +148,11 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, com interesse em des
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisraelluan18&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p>  <br/>
+<br/>
+
+
+
+
+            
+    
